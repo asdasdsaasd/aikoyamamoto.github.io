@@ -26,8 +26,6 @@
     img{
         display: block;
         border: none;
-        max-width: 100%;
-        height: auto;
     }
 }
 .triangle{
