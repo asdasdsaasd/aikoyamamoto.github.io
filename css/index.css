@@ -1,6 +1,13 @@
 *{
-  outline: none;
+  	outline: none;
 	-webkit-user-select: none;
 	-moz-user-select:none;
 	user-select: none;
+}
+
+.triangle{
+	position: fixed;
+	bottom: 38%;
+	right: 475px;
+	filter: drop-shadow(0 0 3px rgba(255,255,255, 0.5)); 
 }
