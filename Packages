@@ -1,0 +1,12 @@
+Package: com.aikoyamamoto.lotus
+Name: Lotus (Modified)
+Version: 1.0
+Architecture: iphoneos-arm
+Depiction: mobilesubstrate
+Section: Themes
+Author: orenjiiiro
+Maintainer: AikoYamamoto
+Description: Modified version of Lotus
+Size: 14163968
+FileName: ./debs/com.aikoyamamoto.lotus_modified_1.0_iphoneos-arm.deb
+MD5Sum: 64324E4923BB84231D0E972AD9434156
