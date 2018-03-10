@@ -1,1 +1,1 @@
-# aikoyamamoto.github.io
+# aikoyamamoto
