@@ -1,17 +1,29 @@
-*{
+* {
   	outline: none;
 	-webkit-user-select: none;
 	-moz-user-select:none;
 	user-select: none;
 }
 
-body{
+body {
 	background: #070707;
 }
-
-.triangle{
-	position: fixed;
-	bottom: 38%;
-	right: 475px;
+.parent {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    align-content: center; 
+    justify-content: center; 
+    overflow: auto;   
+}
+.block {
+    img {
+        display: block;
+        border: none;
 	filter: drop-shadow(0 0 3px rgba(255,255,255, 0.5)); 
+    }
 }
