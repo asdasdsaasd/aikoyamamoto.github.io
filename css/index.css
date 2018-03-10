@@ -28,6 +28,8 @@ body{
         border: none;
         max-width: 100%;
         height: auto;
-	filter: drop-shadow(0 0 3px rgba(255,255,255, 0.5)); 
     }
+}
+.triangle{
+	filter: drop-shadow(0 0 3px rgba(255,255,255, 0.5)); 
 }
