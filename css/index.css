@@ -5,6 +5,10 @@
 	user-select: none;
 }
 
+body{
+	background: #070707;
+}
+
 .triangle{
 	position: fixed;
 	bottom: 38%;
